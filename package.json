@@ -1,0 +1,5 @@
+{
+  "name": "profit-calculator",
+  "version": "1.0.0",
+  "description": "Advanced Net Profit Calculator for Marketplace and E-commerce Sellers",
+  "main": "src/index.js",
